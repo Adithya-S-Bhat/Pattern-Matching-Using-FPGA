@@ -1,0 +1,11 @@
+* File details:
+   .
+   ├── code/
+   │   ├── full-input-data-file.txt  - Text file with full set of keys each in a new line
+   │   ├── input-data-file.txt       - Truncated text file
+   │   ├── lib.v                     - All verilog primitives are in this file
+   │   ├── Makefile                  - Makefile, default target - compile and run simulation with truncated data
+   │   ├── regex.v                   - Regular expression converted to NFA verilog source code
+   │   └── tb_regex.v                - Test bench, reads from the truncated text file and simulates the NFA regex matching
+   ├── FILE-DETAILS.txt              - This file
+   └── regex-paper.pdf               - Paper with details on how to construct NFAs on hardware for a regex
