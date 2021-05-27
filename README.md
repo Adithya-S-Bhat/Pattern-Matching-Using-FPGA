@@ -6,7 +6,7 @@ Pattern matching is the process of checking whether a specific sequence of chara
 
 The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression. 
 
-#FPGA
+# FPGA
 
 Field Programmable Gate Arrays (FPGAs) are semiconductor devices which is an array of logic gates, and this array can be programmed/configured in the field, i.e., by the user of the device as opposed to the people who designed it.
 
@@ -18,13 +18,13 @@ FPGAs can be reprogrammed to desired application or functionality requirements a
 
 # File Structure
 
--> Circuit Diagrams - Contains the circuit diagrams for various fundamental regex and for the given problem statement
--> code - Conatins the verilog code
--> examples - few exmaples solved in verilog
--> CCBD_BootCamp - Presentation file
--> FILE_DETAILS - Contains detail file structure
--> Pattern-Matching - Contains Problem Statement
--> regex-paper - Reference research paper  
+-> Circuit Diagrams - Contains the circuit diagrams for various fundamental regex and for the given problem statement  
+-> code - Conatins the verilog code  
+-> examples - few exmaples solved in verilog  
+-> CCBD_BootCamp - Presentation file  
+-> FILE_DETAILS - Contains detail file structure  
+-> Pattern-Matching - Contains Problem Statement  
+-> regex-paper - Reference research paper    
 
 # Steps to Execute
 
